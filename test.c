@@ -36,6 +36,12 @@ int main()
 
     printf("Your cGPA for 1st year even semester is: %f", cgpa);
 
+    printf("Your cGPA for 1st year even semester is: %f", cgpa);
+
+    printf("Your cGPA for 1st year even semester is: %f", cgpa);
+
+    printf("Your cGPA for 1st year even semester is: %f", cgpa);
+
     //printf("hello");
 
     return 0;
